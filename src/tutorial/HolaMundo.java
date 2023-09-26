@@ -5,7 +5,7 @@ public class HolaMundo {
 		int adios =0;
 		System.out.println("nO TE DEJO ESCRIBIT POR GUIRI jaaaaaaaaaaaaaaaaa");
 		System.out.println("SUSPENSO");
-		
+		fg
 		//asdasdsadas
 	}
 }
