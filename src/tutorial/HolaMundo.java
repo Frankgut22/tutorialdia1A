@@ -6,5 +6,6 @@ public class HolaMundo {
 		System.out.println("nO TE DEJO ESCRIBIT POR GUIRI jaaaaaaaaaaaaaaaaa");
 		System.out.println("SUSPENSO");
 		Return adios;
+		NO MG LOS GUIRIS
 	}
 }
